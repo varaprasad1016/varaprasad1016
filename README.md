@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varaprasad1016.
+- 👋 Hi, I’m varaprasad.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently a python developer.
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects.
