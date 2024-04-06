@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varaprasad.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently a python developer.
+- 🌱 I’m currently a Data Analyst.
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects.
 - 📫 How to reach me? varaprasad.py on instagram.
 
