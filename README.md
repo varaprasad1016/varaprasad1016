@@ -121,8 +121,8 @@ Coventry University
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" height="165"/>
-  <img src="https://vercel.app" height="165"/>
+  [![Vara's GitHub stats](https://github-stats-extended.vercel.app/api?username=varaprasad1016&show_icons=true&locale=en)](https://github.com/stats-organization/github-stats-extended)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=varaprasad1016&langs_count=6&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 ---
